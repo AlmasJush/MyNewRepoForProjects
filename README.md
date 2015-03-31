@@ -1,0 +1,2 @@
+# MyNewRepoForProjects
+Github first repository
